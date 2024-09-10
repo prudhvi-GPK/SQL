@@ -1,0 +1,9 @@
+{
+	"name": "simpleDFar4",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0ba2f59f-3e3a-407f-8c7b-9c86a91c6f6d",
+		"tenantId": "d6241893-512d-46dc-8d2b-be47e25f5666"
+	}
+}
